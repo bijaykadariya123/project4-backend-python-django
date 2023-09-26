@@ -1,7 +1,7 @@
 # Project 4
 - **Project Name:** Movie Collection Backend
 - **Project By:** Bijay Kadariya
-- [**LINK TO GITHUB**]()
+- [**LINK TO GITHUB**]https://github.com/bijaykadariya123/project4-backend-python-django)
 - [**LINK TO DEPLOYED WEBSITE**]()
 - **List of Technologies used:** Python, Django ,Neon
 
